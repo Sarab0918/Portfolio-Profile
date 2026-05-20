@@ -85,11 +85,11 @@ a{color:inherit}
 .brand{display:flex;align-items:center;gap:10px;font-weight:800}
 .brand-mark{
   color:var(--accent3);
-  font-size:18px;
+  font-size:24px;
   transform:translateY(-1px);
   text-shadow:0 0 18px rgba(0,229,255,.35);
 }
-.brand-name{font-size:15px;letter-spacing:.22px}
+.brand-name{font-size:18px;letter-spacing:.22px}
 
 .nav-links{display:flex;align-items:center;gap:18px}
 .nav-links a{
